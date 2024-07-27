@@ -21,14 +21,18 @@ As per many requests from my reddit post about my Raspberry pi pc case i made by
 ![images](https://github.com/user-attachments/assets/bfdf7612-63ad-4e66-82d5-10442df5ab19)
 
 
-## 3D Printed case!
+# 3D Printed case!
 ### Main Frame!
 ![Screenshot 2024-07-27 174138](https://github.com/user-attachments/assets/efd501df-3851-4207-8dd5-e792f931b31f)
 
 #### The case is designed Compactly sized to fit snugly around your components.this case also maximizes active ventilation and airflow with its well ventilated design
 
-## Subframe!
-<img width="923" alt="Screenshot 2024-01-06 072618" src="https://github.com/Clean-Sphere/Cleansphere-/assets/155823427/905a0a55-a298-43c1-b8c5-bb4c4eabb86e">
+## Subframe and cover!
+![Screenshot 2024-07-27 174204](https://github.com/user-attachments/assets/7f65e525-c3b3-435f-9569-15ffc55a5040)
+this frame is to be glued on top the main frame with magnets to be installed on the given holes
+## Cover:
+with the choice of 3 diffrent cover plates you can print any one to your liking 
+![Screenshot 2024-07-27 174204](https://github.com/user-attachments/assets/7f65e525-c3b3-435f-9569-15ffc55a5040)
 
 #### The case is also uploaded opensource in this page where you can download and modify your case to your liking!
 
