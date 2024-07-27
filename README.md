@@ -35,38 +35,12 @@ this frame is to be glued on top the main frame with magnets to be installed on 
 
 ![Screenshot 2024-07-27 174507](https://github.com/user-attachments/assets/c3cdca55-ed8e-418a-997e-11a0f1b840e5)
 #### Acrlyc transparent sheet is required for the blank frame
-#### this frame is to be glued on top the main frame with magnets to be installed on the given holes 
+#### magnets to be installed on the given holes 
 ## The case is also uploaded opensource in this page where you can download and modify your case to your liking!
 
 # Code for the power button:
-Script for shutdown and reboot
-3-1. Create a python script file of any name or location.
+```Script for shutdown:
+git clone https://github.com/Howchoo/pi-power-button.git
 
-sudo nano /usr/local/bin/power-switch.py
-3-2. Write a code to detect shutdown and reboot signal.
-
-import threading, subprocess
-import RPi.GPIO as GPIO
-
-if __name__ == '__main__':
-    try:
-        GPIO.setmode(GPIO.BOARD)
-        GPIO.setup(5, GPIO.IN)
-        GPIO.wait_for_edge(5, GPIO.RISING)
-        pin = GPIO.wait_for_edge(5, GPIO.FALLING, timeout=3000)
-        if pin is None:
-            subprocess.call('sudo shutdown -h now', shell=True)
-        else:
-            subprocess.call('sudo reboot', shell=True)
-    finally:
-        GPIO.cleanup()
-# Enable script at boot
-4-1. Open /etc/rc.local.
-
-sudo nano /etc/rc.local
-4-2. Add a line above “exit 0” to execute the script at boot.
-
-python /usr/local/bin/power-switch.py &
-4-3. Reboot.
-
-sudo reboot
+./pi-power-button/script/install
+````
