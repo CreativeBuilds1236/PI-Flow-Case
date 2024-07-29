@@ -36,6 +36,8 @@ this frame is to be glued on top the main frame with magnets to be installed on 
 ![Screenshot 2024-07-27 174507](https://github.com/user-attachments/assets/c3cdca55-ed8e-418a-997e-11a0f1b840e5)
 #### Acrlyc transparent sheet is required for the blank frame
 #### magnets to be installed on the given holes 
+![Screenshot 2024-07-28 094056](https://github.com/user-attachments/assets/409b2dfa-8bd4-4599-a1f3-30d20f077dd5)
+
 ## The case is also uploaded opensource in this page where you can download and modify your case to your liking!
 
 # Code for the power button:
@@ -44,3 +46,7 @@ git clone https://github.com/Howchoo/pi-power-button.git
 
 ./pi-power-button/script/install
 ````
+# Final Build!
+![DSCN4769](https://github.com/user-attachments/assets/81bcc68b-6cdd-477d-82b5-6b261bab7561)
+![DSCN4770](https://github.com/user-attachments/assets/ff65c962-0b68-4f4f-b607-e11066b9e3a1)
+
