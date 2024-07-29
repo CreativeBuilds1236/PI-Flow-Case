@@ -1,6 +1,6 @@
 # PI-Slim PC🖥
 ### As per many requests from my reddit post about my Raspberry pi pc case i made by reconstruction my old Pi-satelite shell iv decieded to reopen the old files and remodel it into a fully fledged PC case for the Raspbetty pi 3b-4  
-![DSCN4760](https://github.com/user-attachments/assets/0911bc43-b8f9-4fb4-acde-1066c9bbe11b)
+![DSCN4768](https://github.com/user-attachments/assets/d73ae835-e4fc-4307-83d3-2f96dbbce639)
 
 
 # List of parts required!
