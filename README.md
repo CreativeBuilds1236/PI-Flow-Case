@@ -49,4 +49,4 @@ git clone https://github.com/Howchoo/pi-power-button.git
 # Final Build!
 ![DSCN4769](https://github.com/user-attachments/assets/81bcc68b-6cdd-477d-82b5-6b261bab7561)
 ![DSCN4770](https://github.com/user-attachments/assets/ff65c962-0b68-4f4f-b607-e11066b9e3a1)
-
+## (also to be noted the photos provided of the actuall build are of the prototype and the actuall build post print will yeild better results!)
